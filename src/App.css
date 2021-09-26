@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+header, footer {
+	color: white;
+	background: #0e031b;
+	padding: 30px;
+	text-align: center;
+	font-weight: bold;
+	font-family: Open Sans;
+}
+header {
+	margin-bottom: 15px;
+}
+
+span {
+	text-align: center;
+	margin: 0.5rem;
+	padding-bottom: 0.5rem;
+	letter-spacing: 1px;
+	font-weight: bold;
+}
+
+.Content{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+
+
