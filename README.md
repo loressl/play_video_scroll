@@ -7,6 +7,10 @@
 ## Tecnologias
  - [React](https://reactjs.org)
 
+## Screen
+
+<img src="screen/play_scroll.gif" width="900px" height="550px">
+
 ## Instalação
 ```bash
 yarn install
@@ -20,3 +24,5 @@ yarn start
 # ou
 npm run start
 ```
+
+* OBS: Observe as permissões de localhost para execução dos vídeos de modo automático. 
