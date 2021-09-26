@@ -22,7 +22,7 @@ function App() {
       </header>
       <div className="Content">
         <span>
-          Projeto criado com base no video de Mario Souto sobre o <a href="https://youtu.be/ql0-0_taZpk">Lazy Load de Imagens</a>. 
+          Projeto criado com base no vídeo de Mario Souto sobre o <a href="https://youtu.be/ql0-0_taZpk">Lazy Load de Imagens</a>. 
           Contudo, o foco será o play do video, que será iniciado ao chegar no componente identificado pelo id.
         </span>
         <Image alt="nasa 1" src="https://fotospublicas.com/wp-content/uploads/2021/08/ksc-20210829-ph-kls01_0024_orig_1041x-682x1024.jpeg" />
